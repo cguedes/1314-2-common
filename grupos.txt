@@ -6,6 +6,7 @@ Gxx [id no GitHub] [id no GitHub] ...
 Exemplo:
 
 LI41D-G00 cguedes fbfreitas
+LI41N-G00 cguedes fbfreitas
 
 ------------------------------------------------------------------------------------------------------
 LI41D-G01 
